@@ -16,9 +16,7 @@
 }
 
 .header__link {
-  text-decoration: none;
   color: #000;
-  text-decoration: underline;
 }
 
 .header__link_active {
@@ -107,7 +105,6 @@
 .cover__description {
   position: relative;
   display: flex;
-  justify-content: end;
   align-items: center;
   justify-content: space-between;
   margin-top: 135px;
@@ -187,7 +184,6 @@
 
 .lots__look-more-link {
   margin-left: 40px;
-  font-size: 20px;
   text-decoration: underlineж;
   color: #000;
 }
@@ -282,7 +278,6 @@
 }
 
 .footer__menu-link {
-  text-decoration: none;
   color: #000;
   font-size: 18px;
   text-decoration: underline;
